@@ -1,0 +1,32 @@
+{
+  "name": "json_format_check",
+  "version": "1.0.0",
+  "description": "check json data",
+  "main": "checker.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zqWu/json_format_check.git"
+  },
+  "devDependencies":{
+    "mocha":"*",
+    "chai":"*",
+    "assert":"*"
+  },
+  "keywords": [
+    "check",
+    "json",
+    "format"
+  ],
+  "author": "dormi330",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zqWu/json_format_check/issues"
+  },
+  "homepage": "https://github.com/zqWu/json_format_check"
+}
