@@ -13,5 +13,10 @@ make test
 
 or, if you install mocha globally 
 ```
-mocha -u tdd
+mocha -u tdd 
+```
+
+or, use grunt
+```
+grunt
 ```
